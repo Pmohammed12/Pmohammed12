@@ -1,4 +1,4 @@
-### i'm currently working on the software architecture and design development
+### I'm currently working on the software architecture and design development
 
 <!--
 **Pmohammed12/Pmohammed12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
